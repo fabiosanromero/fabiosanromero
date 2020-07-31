@@ -1,6 +1,6 @@
 👋 Olá, Sou Analista de Sistemas Sênior na B3, a Bolsa de Valores de São Paulo. Já trabalho há um bom tempo com Desenvolvimento de Sistemas, mas somente há pouco tempo estou criando meus repositórios e aumentando meu portfolio, então ainda estou melhorando meus trabalhos aqui.
 
-Atualmente estou 🏭trabalhando com .NET e iniciando em .NET Core e também estudando 🚀Computação em nuvem. Estou também muito 😍empolgado com meus estudos nessas linguagens de javascript e typescrit, como 🎉Vuejs e ✨Reactjs.
+Atualmente estou 🏭trabalhando com .NET e iniciando em .NET Core e também estudando 🚀Computação em nuvem. Estou também muito 😍empolgado com meus estudos nesses frameworks de javascript e typescrit, como 🎉Vuejs e ✨Reactjs.
 
 Se quiser entrar em contato comigo para projetos colaborativos🦾, você vai me encontrar em uma dessas redes sociais:
 
